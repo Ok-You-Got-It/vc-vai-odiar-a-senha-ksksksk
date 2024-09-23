@@ -6,3 +6,5 @@ Bom, aqui vai um manual, todo número binário aqui, contem 8 bits (8 digitos), 
 (tem uma maneira muita mais facíl de descobrir a senha, espero que você não descubra)
 
 Dica: ANSSI
+
+Aqui sua mensagem criptografada: carta.html
